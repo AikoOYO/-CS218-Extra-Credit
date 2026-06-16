@@ -1,0 +1,31 @@
+A Topic I Am Confused About: LEA
+
+LEA:
+    LEA as I know can be a form of quick calculation or
+    accessing the address?
+
+    There are instances where I get confused on whether or not
+    I should use mov or lea. Which is best? Which is optimal? Why choose 
+    lea over mov?
+
+    I have been searching for what it does and when to use it,
+    which I often see it is best for arrays or when doing quick
+    arithmetic.
+
+    Another instance that brought some confusion was the dereference of an address
+    and using lea. What does that do? Is that like mov as well? 
+    
+    - To improve on this, I will come up with questions, search them up 
+    if I can get an answer and observe the usage of it. If not, I will bring them 
+    up to someone.
+
+As for stack-related, I'm not exactly confused, but just need more practice. :)
+ 
+
+Miscellaneous: 
+- I also want to learn more of the stuff from the textbook
+ like movzx, movsxd, xor, etc.
+    I have had previously learned it when I first took CS218, but
+    personally find it easier to learn from professors that suit my 
+    learning style. So, I have a decent grasp on it, but want to see it being
+    implemented more in examples.
